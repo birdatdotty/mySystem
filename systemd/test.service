@@ -1,0 +1,12 @@
+[Unit]
+Description=test
+
+[Service]
+#ExecStart=/home/android/devel/service/build/Service
+#Type=forking
+ExecStart=.../test
+Type=dbus
+BusName=test.service
+
+[Install]
+WantedBy=multi-user.target

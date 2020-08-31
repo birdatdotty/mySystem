@@ -1,0 +1,4 @@
+/home/gluck/test/systemd/build2/CMakeFiles/rebuild_cache.dir
+/home/gluck/test/systemd/build2/CMakeFiles/edit_cache.dir
+/home/gluck/test/systemd/build2/CMakeFiles/test.dir
+/home/gluck/test/systemd/build2/CMakeFiles/test_autogen.dir
